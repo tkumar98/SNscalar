@@ -10,12 +10,12 @@ Each channel has its own folder with code and outputs.
 ---
 
 ## Repository Structure
+
 .
-├── bremsstrahlung/ # Code + outputs for NN bremsstrahlung channel
+├── bremsstrahlung/       # Code and outputs for the NN bremsstrahlung channel
+├── pion_conversion/      # Code and outputs for the pion conversion channel
+└── README.md             # Project documentation
 
-├── pion_conversion/ # Code + outputs for pion conversion channel
-
-├── README.md # Project documentation
 
 ---
 

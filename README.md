@@ -13,7 +13,7 @@ Each channel has its own folder with code and outputs.
 
 .
 ├── bremsstrahlung/
-│   ├── code/             # Scripts for NN bremsstrahlung channel
+-│   ├── code/             # Scripts for NN bremsstrahlung channel
 │   └── outputs/          # Output files and results
 ├── pion_conversion/
 │   ├── code/             # Scripts for pion conversion channel
